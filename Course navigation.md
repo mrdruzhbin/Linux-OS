@@ -8,7 +8,7 @@
 3. [Типы и назначение операционных систем. ОС Linux](https://github.com/Alaris-support/IT-and-Linux-Basics/tree/main/3.%20OS-Types-and-Purpose)
 4. [Основы работы с командной строкой](https://github.com/Alaris-support/IT-and-Linux-Basics/tree/main/4.%20Command-Line-Basics)
 
-### [Linux-OS-Concepts](https://github.com/Alaris-support/Linux-OS)
+### [Операционная система Linux](https://github.com/Alaris-support/Linux-OS)
 1. [Процессы, управление процессами](https://github.com/Alaris-support/Linux-OS/tree/main/1.%20Process-Management)
 2. [Память, управление памятью](https://github.com/Alaris-support/Linux-OS/tree/main/2.%20Memory-Management)
 3. [Планировщик задач](https://github.com/Alaris-support/Linux-OS/tree/main/3.%20Schedulers-Overview)
@@ -17,29 +17,37 @@
 6. [Ядро операционной системы](https://github.com/Alaris-support/Linux-OS/tree/main/6.%20OS-Kernel)
 7. [Загрузка ОС](https://github.com/Alaris-support/Linux-OS/tree/main/7.%20OS-Boot)
 
-### [Linux-Administration](#)
-1. Distribution-Types
-2. Package-Management
-3. System-Initialization
-4. User-Management
-5. System-Performance-Part1
-6. System-Performance-Part2
+### [Администрирование Linux](#)
+1. Типы дистрибутивов (обзорная часть)
+2. Управление пакетами
+3. Инициализация системы. Systemd, init-v
+4. Управление пользователями
+5. Производительность системы
+6. Производительность системы. Часть 2
 
-### [Networking-and-Protocols](#)
-1. OSI-ISO-Model
-2. L2-Networking
-3. L3-Networking
-4. L4-Networking
-6. Firewall
-7. NAT
-8. VPN
-9. High-Level-Network-Protocols
-10. Troubleshooting
-11. DHCP-and-PXE
-12. DNS
-13. HTTP-HTTPS
+### [Сеть, сетевые протоколы](#)
+1. Модель OSI/ISO. Обзор сетевых протоколов
+2. L2-сеть
+3. L3-сеть
+4. L4-сеть
+5. Firewall
+6. NAT
+7. VPN
+8. Высокоуровневые сетевые протоколы
+9. Траблшутинг
+10. DHCP, PXE
+11. DNS
+12. HTTP/HTTPS
 
-### [IT-Monitoring](#)
-1. Monitoring-System-Overview
-2. Zabbix-Part1
-3. Zabbix-Part2
+### [Мониторинг](#)
+1. Обзор систем ИТ-мониторинга
+2. Система мониторинга Zabbix
+3. Система мониторинга Zabbix. Часть 2
+
+## Продвинутые Темы **в разработке**
+
+### [Программирование на Bash](#)
+1. Переменные и условные операторы
+2. Циклы и функции
+3. Regexp и его использование для синтаксического анализа
+4. Работа с текстовыми утилитами
