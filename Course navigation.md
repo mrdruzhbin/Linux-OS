@@ -17,13 +17,13 @@
 6. [Ядро операционной системы](https://github.com/Alaris-support/Linux-OS/tree/main/6.%20OS-Kernel)
 7. [Загрузка ОС](https://github.com/Alaris-support/Linux-OS/tree/main/7.%20OS-Boot)
 
-### [Администрирование Linux](#)
-1. Типы дистрибутивов (обзорная часть)
-2. Управление пакетами
-3. Инициализация системы. Systemd, init-v
-4. Управление пользователями
-5. Производительность системы
-6. Производительность системы. Часть 2
+### [Администрирование Linux](https://github.com/Alaris-support/Linux-Administration)
+1. [Типы дистрибутивов](https://github.com/Alaris-support/Linux-Administration/tree/main/1.%20Distribution-Types)
+2. [Управление пакетами](https://github.com/Alaris-support/Linux-Administration/tree/main/2.%20Package-Management)
+3. [Инициализация системы. Systemd, init-v](https://github.com/Alaris-support/Linux-Administration/tree/main/3.%20System-Initialization)
+4. [Управление пользователями](https://github.com/Alaris-support/Linux-Administration/tree/main/4.%20User-Management)
+5. [Производительность системы](https://github.com/Alaris-support/Linux-Administration/tree/main/5.%20System-Performance-Part1)
+6. [Производительность системы. Часть 2](https://github.com/Alaris-support/Linux-Administration/tree/main/6.%20System-Performance-Part2)
 
 ### [Сеть, сетевые протоколы](#)
 1. Модель OSI/ISO. Обзор сетевых протоколов
